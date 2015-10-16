@@ -1,4 +1,4 @@
-# Shinichiro Yamagami
+# Shin Yamagami
 # Oct 8th, 2015
 # This program check if the total value of the coins inputted by users equal to
 # one dollar or not.
